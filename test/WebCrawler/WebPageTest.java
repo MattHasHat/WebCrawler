@@ -1,5 +1,6 @@
-package hayworth_brighton_final.webcrawler;
+package webcrawler;
 
+import webcrawler.WebPage;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

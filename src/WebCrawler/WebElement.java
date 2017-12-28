@@ -1,4 +1,4 @@
-package hayworth_brighton_final.webcrawler;
+package webcrawler;
 
 import java.io.File;
 
